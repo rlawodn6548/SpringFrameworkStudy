@@ -1,4 +1,0 @@
-프로젝트 목표
-1. SpringFramework 공부 
-2. Git을 GUI가 아니라 CLI로 사용
-3. 지속, 유지가능한 프로젝트 사용
